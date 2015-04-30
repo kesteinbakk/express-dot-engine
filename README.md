@@ -174,7 +174,7 @@ layout: ceo.dot
 ```html
 ---
 layout: boss.dot
-title: Page title
+title: Boss page
 ---
 
 [[##section:
